@@ -1,6 +1,3 @@
-__author__ = 'Adam'
-
-
 #Answer 4613732
 numberList = [1,2]
 number = 0

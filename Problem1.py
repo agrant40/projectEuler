@@ -1,5 +1,3 @@
-__author__ = 'Adam'
-
 #Answer is 233168
 number = 0
 numberList = []

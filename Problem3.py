@@ -1,4 +1,3 @@
-__author__ = 'Adam'
 #Answer is 6857
 
 number = 600851475143
